@@ -34,6 +34,7 @@ The system operates on the following core entities:
 - Club Head → Event (One-to-One)
 - Event → Hall (One-to-One)
 - Hall → Occupied (One-to-Many)
+![E-R  Dig ](https://github.com/r-rishit27/Hall_Alocation_Sysytem/blob/main/Screenshot%202024-10-22%20235443.png)
 
 ## Database Schema
 The system uses the following tables:
@@ -58,6 +59,15 @@ The system uses the following tables:
 
 ## Web Interface
 The user interacts with the system via a simple web interface where they input event details. Based on these inputs, the system provides real-time feedback on hall availability.
+
+![Alt Text](https://github.com/r-rishit27/Hall_Alocation_Sysytem/blob/main/Screenshot%202023-11-05%20114908.png)
+
+### Successful Booking Example
+![Success Message](https://github.com/r-rishit27/Hall_Alocation_Sysytem/blob/main/Screenshot%202023-11-05%20112424.png)
+
+### Booking Failed Example
+![Failure Message](https://github.com/r-rishit27/Hall_Alocation_Sysytem/blob/main/Screenshot%202023-11-05%20112654.png)
+
 
 ## SQL Queries
 - **Insert Event Details**:
