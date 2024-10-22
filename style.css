@@ -1,0 +1,48 @@
+*{
+   box sizzing:border box;
+   }
+   body {
+          font-family:"Times New Roman";
+		  margin:10px 30px;
+		  font-size:17px;
+		  padding:10px;
+		  align:center;
+		  background-color:#FFFFFF;
+	
+		  border:#000000
+		  double;
+		  }
+		   
+		  container{
+		              background-color:#FFFFFF;
+					  padding: 5px 20px 20px;
+					  border: 1px solid #333333;
+					  border radius:4px;
+					  }
+					   i
+								 
+					              
+					  fieldset{
+					           background-color:#FFFFFF;
+							   border:1px;
+							   }
+							   h1{
+							                    text-align:center;
+												color:#00FF00;
+												}
+												#p{
+												     color:#FF0000;
+													 }
+												  
+												input[type="submit"]
+												{
+												  background-color:#00FF00;
+						
+												  padding:12px 20px;
+												  border:none;
+												  border radius:4px;
+												  cursor:pointer;
+												  width:100%;
+												  }												  
+					  
+					   
